@@ -8,14 +8,16 @@ AtliQ Grands, a luxury/business hotel chain, is facing challenges in the hospita
 
 The primary objective of this project was to create an interactive dashboard using Power BI to monitor key metrics across AtliQ Grands' hotels located in various metro cities. The dashboard provides insights into critical hospitality metrics, helping the management make informed decisions.
 
+![Screenshot 2024-05-03 113738](https://github.com/Jayant-Projects/Atliq_Grand_Hospitality_Analysis/assets/142287323/5bf6c426-cbc2-4a59-9eb1-b525cbbe4bef)
+
 ### Key Metrics Unveiled
 
 This project revealed several key metrics crucial to success in the hospitality domain:
 
-1. **ADR (Average Daily Revenue):** The average payment for rooms sold in a given time period.
-2. **DBRN (Daily Booked Room Nights):** The average number of rooms booked per day during a time period.
-3. **DSRN (Daily Sellable Room Nights):** The average number of rooms available for sale per day during a time period.
-4. **DURN (Daily Utilized Room Nights):** The average number of rooms successfully used by customers per day during a time period.
+1. **ADR (Average Daily Revenue):** The average payment for rooms sold in a given period.
+2. **DBRN (Daily Booked Room Nights):** The average number of rooms booked per day during a time.
+3. **DSRN (Daily Sellable Room Nights):** The average number of rooms available for sale per day during a time.
+4. **DURN (Daily Utilized Room Nights):** The average number of rooms successfully used by customers per day during a time.
 5. **RevPAR (Revenue Per Available Room):** A key indicator of hotel performance, calculated as revenue divided by the total available room nights.
 6. **Occupancy Percentage:** The percentage of successfully booked rooms out of the total available capacity.
 7. **No-Show Rate:** The percentage of customers who fail to show up for their bookings.
@@ -23,7 +25,7 @@ This project revealed several key metrics crucial to success in the hospitality 
 
 ## Project Conclusion
 
-This Power BI report analyzes three months' worth of booking data, providing actionable insights to the revenue team while incorporating standard hospitality metrics. The report includes clear recommendations for improving the pricing model and implementing cost-cutting strategies. This work is instrumental in assisting AtliQ Grands in improving revenue and regaining market share.
+This Power BI report analyzes three months' worth of booking data, providing actionable insights to the revenue team while incorporating standard hospitality metrics. The report includes clear recommendations for improving the pricing model and implementing cost-cutting strategies. This work is instrumental in assisting AtliQ Grands in enhancing revenue and regaining market share.
 
 As a result of the insights gained from this project, the revenue team at AtliQ Grands anticipates regaining 20% of their lost revenue and market share in the next month.
 
@@ -32,7 +34,7 @@ As a result of the insights gained from this project, the revenue team at AtliQ 
 The successful completion of this project involved a range of activities and learning experiences, including:
 
 1. Researching and understanding the important metrics in the hospitality domain.
-2. Data modeling to structure and organize the dataset for analysis.
+2. Data modelling to structure and organize the dataset for analysis.
 3. Creating new measures and calculations based on specific business requirements.
 4. Understanding the business context of the data and identifying key business questions to address.
 5. Learning Power BI basics, including the DAX language, relationship and model building, dashboard creation, and data manipulation using various charts.

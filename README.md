@@ -44,13 +44,13 @@ This project revealed several key metrics crucial to success in the hospitality 
 
 ### Key Insights
 
-Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-AtliQ Exotica performs better compared to all 7 types of properties with 320 Million in revenue, a rating of 3.62, an occupancy percentage of 57 and a cancellation rate as 24.4%.
-AtliQ Bay has the highest occupancy of 66%
-Week 24 recorded the highest revenue among all, which is 139.6 Million
-Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-AtliQ lost around 298 Million in cancellation
-Elite-type rooms have the most bookings and as well higher cancellation rate
+* Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+* AtliQ Exotica performs better compared to all 7 types of properties with 320 Million in revenue, a rating of 3.62, an occupancy percentage of 57 and a cancellation rate as 24.4%.
+* AtliQ Bay has the highest occupancy of 66%
+* Week 24 recorded the highest revenue among all, which is 139.6 Million
+* Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+* AtliQ lost around 298 Million in cancellation
+* Elite-type rooms have the most bookings and as well higher cancellation rate
 
 ## Learning Process
 

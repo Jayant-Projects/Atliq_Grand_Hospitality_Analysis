@@ -1,6 +1,6 @@
 # AtliQ Grands Hospitality Business Project
 
-Live Dashboard - https://mavenanalytics.io/project/16401
+### Live Dashboard - [Link](https://mavenanalytics.io/project/17020)
 
 ## Problem Statement
 
@@ -52,7 +52,7 @@ This project revealed several key metrics crucial to success in the hospitality 
 * Week 24 recorded the highest revenue among all, which is 139.6 Million
 * Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 * AtliQ lost around 298 Million in cancellation
-* Elite-type rooms have the most bookings and as well higher cancellation rate
+* Elite-type rooms have the most bookings and a higher cancellation rate
 
 ## Learning Process
 
